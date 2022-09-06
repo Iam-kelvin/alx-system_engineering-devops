@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'a-z' 'n-za-m' | tr 'A-Z' 'N-ZA-M'
+grep -n '' | grep [1,3,5,7,9]: | cut -f2 -d':'
